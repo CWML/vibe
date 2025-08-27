@@ -103,7 +103,6 @@ pip3 --version
 ---
 
 ### 4. Docker Desktop
-### 4. Docker Desktop
 **What it is:** Containerization platform that enables us to run consistent development environments across different computers.
 
 #### Installation Instructions:
