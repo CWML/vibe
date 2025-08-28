@@ -28,7 +28,9 @@ The seaborn fMRI dataset contains functional magnetic resonance imaging (fMRI) d
 
 ## EDA Prompt for VSCode + GitHub Copilot
 
-**Copy and paste this prompt into VSCode with GitHub Copilot enabled:**
+**This prompt was utilized to generate the fMRI EDA notebook.**
+
+**Copy and paste this prompt into VSCode with GitHub Copilot enabled and agent mode is selected:**
 
 ```
 # fMRI Dataset Exploratory Data Analysis
