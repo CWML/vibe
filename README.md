@@ -47,6 +47,7 @@ Researchers, data scientists, and students who want to:
 "Vibe coding" may represent a shift from traditional programming paradigms. As Thomas Kuhn described in *The Structure of Scientific Revolutions*, we might be witnessing a potential paradigm shift in how we approach software development and computational research. Instead of planning every implementation detail upfront, this approach explores an AI-assisted methodology that emphasizes:
 
 - **Intent over Implementation**: Describe what you want, let AI suggest how
+- **Detailed Prompts as Code**: Craft comprehensive prompts that serve as specifications for complex documents, analyses, and implementations
 - **Rapid Iteration**: Quick prototyping and testing of ideas
 - **Educational AI Use**: Learning while coding through AI explanations
 - **Scientific Focus**: More time for research questions, less for debugging
